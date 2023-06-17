@@ -1,0 +1,5 @@
+Xin chào các bạn.
+Tôi là trợ lý của bạn.
+Tôi sẽ giúp đỡ bạn trong công việc.
+Module AEL-AD22 được thiết kế để nghiên cứu hoạt động của hệ thống điều khiển ngập lụt phổ biến hiện nay. Ứng dụng giúp người dùng hiểu về sự nhận diện có ngập và điều khiển hệ thống cảnh báo trong trường hợp nhận diện được lũ lụt. Ứng dụng gồm hai phần chính: module chính và bể chứa nước.
+N-ALI02: Bộ cấp nguồn (nguồn trong nhà): Có cầu dao bảo vệ quá tải, khoá với hai vị trí ON/OFF và nút nhấn dừng khẩn cấp đảm bảo an toàn. Module sử dụng Nguồn cấp 1 pha: 230VAC. Ngoài đất (GND), module còn có nguồn ra điện áp 1 pha 230VAC: L, N. Nguồn cấp 1 pha: 230VAC.
